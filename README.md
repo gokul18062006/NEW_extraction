@@ -243,9 +243,6 @@ This project is for educational and research purposes.
 - **Hugging Face** - Dataset hosting
 - **React & Tailwind CSS** - Frontend framework
 
----
-
-**Made with ❤️ for Tamil language processing**
 
 
 cd backend
